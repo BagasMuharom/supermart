@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Supermart</string>
+    <string name="title_activity_pilih_lokasi">Map</string>
+</resources>

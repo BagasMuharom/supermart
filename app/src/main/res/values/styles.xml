@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:titleTextStyle">@style/ActionBarTextStyle</item>
+        <item name="android:textColorSecondary">@color/optionMenuColor</item>
+        <item name="android:actionBarStyle">@style/actionBarStyle</item>
+    </style>
+
+    <style name="ActionBarTextStyle">
+        <item name="android:textColor">@color/appBarTextColor</item>
+    </style>
+
+    <style name="actionBarStyle">
+        <item name="android:elevation">@dimen/elevation</item>
+    </style>
+
+    <style name="tabLayoutStyle" parent="Widget.Design.TabLayout">
+        <item name="android:textAppearance">@style/tabLayoutTextStyle</item>
+        <item name="tabIndicatorColor">@color/colorAccent</item>
+    </style>
+
+    <style name="tabLayoutTextStyle">
+        <item name="android:textColor">#333333</item>
+    </style>
+
+</resources>

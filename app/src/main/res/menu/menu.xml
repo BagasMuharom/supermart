@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cart_icon"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping_cart_24dp"
+        android:title="cart"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/pesanan_saya"
+        android:title="Pesanan Saya"
+        android:visible="true"
+        />
+
+</menu>
