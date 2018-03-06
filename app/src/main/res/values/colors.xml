@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#FFFFFF</color>
-    <color name="appBarTextColor">#3F51B5</color>
+    <color name="appBarTextColor">#0982f3</color>
     <color name="colorPrimaryDark">#EEEEEE</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#2c9ef4</color>
     <color name="activityBackground">#EEEEEE</color>
     <color name="optionMenuColor">#000000</color>
     <color name="iconColor">#FF000000</color>
